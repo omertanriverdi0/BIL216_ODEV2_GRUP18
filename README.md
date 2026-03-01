@@ -1,7 +1,9 @@
 BIL216 İşaretler ve Sitemler Ödev 2 - Grup 18
+
 Bu proje, Türk alfabesindeki harfleri DTMF mantığıyla belirli frekans çiftlerine dönüştürerek ses dosyası oluşturur ve bu ses dosyasını FFT analizi ile tekrar metne çevirir.
 
 Proje İçeriği
+
 Karakter Tanımlama: Alfabedeki 29 harf ve boşluk karakteri için düşük ve yüksek frekans grupları oluşturulmuştur.
 
 Ses Üretimi: Belirlenen frekanslar sinüs formülü kullanılarak sentezlenmiş ve .wav formatında kaydedilmiştir.
