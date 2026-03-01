@@ -9,13 +9,16 @@ Ses Üretimi: Belirlenen frekanslar sinüs formülü kullanılarak sentezlenmiş
 Sinyal Çözme: Kaydedilen işaretler Hamming penceresinden geçirilmiş ve Hızlı Fourier Dönüşümü (FFT) ile baskın frekanslar tespit edilerek metin geri elde edilmiştir.
 
 Kullanım
+
 Kodu çalıştırmadan önce gerekli kütüphanelerin yüklü olduğundan emin olun:
 pip install numpy scipy matplotlib sounddevice
 
 Ana programı çalıştırmak için:
+
 python frekans.py
 
 Grup Üyeleri
+
 Ömer TANRIVERDİ - 240601023
 
 Berfin Su EREN - 240601045
